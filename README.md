@@ -1,10 +1,10 @@
 # EasyJsBox
 
-> 一个简单的JSBox应用框架
+> A simple JSBox application framework
 
-可以在安装脚本后将其安装为 JSBox 模块，安装为模块后将：
+You can install the script as a JSBox module after installing it, and after installing it as a module,：
 
-- 可在脚本中直接使用，如 `const { VERSION, Kernel } = require('easy-jsbox')`
-- 无法使用“检查更新”功能
+- Can be used directly in scripts, such as `const { VERSION, Kernel } = require('easy-jsbox')`
+- Unable to use the "Check for updates" function
 
-[相关文档](./docs/README.md)
+[Related documents](./docs/README.md)
