@@ -4,6 +4,6 @@
         "build": "node build.js"
     },
     "dependencies": {
-        "esbuild": "0.18.17"
+        "esbuild": "0.19.8"
     }
 }
